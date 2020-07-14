@@ -1,9 +1,5 @@
 #python programming
-
-
-
 #Variables
-
 #numbers
 x = 5
 
@@ -25,10 +21,22 @@ z = x + y
 
 print(z)
 
-first_name= "Doll "
-Last_name="Grg"
-a= first_name + Last_name
+first_name = "Doll "
+Last_name ="Grg"
+a = first_name + Last_name
 print (a)
+
+#bool
+#true or false
+
+are_we_having_class = False
+print(are_we_having_class)
+
+#Determining the data type
+print(type(are_we_having_class))
+
+
+
 
 
 
