@@ -35,6 +35,24 @@ print(are_we_having_class)
 #Determining the data type
 print(type(are_we_having_class))
 
+#Conditional Statement
+## If Statement
+
+a = 5
+b = 5
+
+if b > a:
+  print ("b is greater than a")
+elif b == a:
+  print("b is equal to a")
+
+if we_are_having_class:
+  print ("Let's Learn Python")
+##else:
+  #print("see you next time")
+
+
+
 
 
 
