@@ -46,10 +46,14 @@ if b > a:
 elif b == a:
   print("b is equal to a")
 
-if we_are_having_class:
+if are_we_having_class:
   print ("Let's Learn Python")
-##else:
-  #print("see you next time")
+else:
+  print ("see you next time")
+
+
+  
+
 
 
 
